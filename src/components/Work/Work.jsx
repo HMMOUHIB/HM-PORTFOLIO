@@ -46,7 +46,7 @@ export const Work = () => {
         trigger : workRef.current,
         start : 'top 80%',
         toggleActions : 'play none none none',
-        markers : true
+       
       }
     });
     tl.fromTo(
