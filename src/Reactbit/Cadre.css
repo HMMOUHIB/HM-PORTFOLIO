@@ -1,0 +1,193 @@
+/* Define custom properties for card dimensions */
+:root {
+  --card-width: 700px;
+  --card-height: 500px;
+}
+
+@media (max-width: 640px) {
+  :root {
+    --card-width: 500px;
+    --card-height: 500px;
+  }
+}
+
+.outer {
+  width: var(--card-width);
+  height: var(--card-height);
+  border-radius: 10px;
+  padding: 1px;
+  position: relative;
+}
+
+.dot {
+  width: 6px; /* Slightly increased for better visibility */
+  aspect-ratio: 1;
+  position: absolute;
+  background-color: #fff;
+  box-shadow: 0 0 8px #ffffff; /* Reduced shadow spread for less clipping */
+  border-radius: 100px;
+  z-index: 2;
+  left: 10%;
+  top: 10%;
+  animation: moveDot 6s linear infinite;
+}
+
+@keyframes moveDot {
+  0% {
+    top: 10%;
+    left: 10%;
+  }
+  25% {
+    top: 10%;
+    left: calc(100% - 5% - 6px); /* Adjusted for 6px dot width */
+  }
+  50% {
+    top: calc(100% - 10% - 6px); /* Adjusted for 6px dot height */
+    left: calc(100% - 5% - 6px);
+  }
+  75% {
+    top: calc(100% - 50px - 6px);
+    left: 10%;
+  }
+  100% {
+    top: 10%;
+    left: 10%;
+  }
+}
+
+.cardnigga {
+  z-index: 1;
+  width: var(--card-width);
+  height: var(--card-height);
+  border-radius: 9px;
+  background-size: 20px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex-direction: column;
+}
+
+.ray {
+  width: 220px;
+  height: 45px;
+  border-radius: 100px;
+  position: absolute;
+  opacity: 0.4;
+  transform-origin: 10%;
+  top: 0%;
+  left: 0;
+  transform: rotate(40deg);
+}
+
+.card .text {
+  font-weight: bolder;
+  font-size: 4rem;
+  background: linear-gradient(45deg, #000000 4%, #fff, #000);
+  background-clip: text;
+  color: transparent;
+}
+
+.line {
+  width: 100%;
+  height: 1px;
+  position: absolute;
+  background-color: #aa00ff;
+}
+
+.topl {
+  top: 10%;
+  background-color: #aa00ff;
+}
+
+.bottoml {
+  bottom: 10%;
+}
+
+.leftl {
+  left: 10%;
+  width: 1px;
+  height: 100%;
+  background-color: #aa00ff;
+}
+
+.rightl {
+  right: 10%;
+  width: 1px;
+  height: 100%;
+}
+
+@media (max-width: 640px) {
+
+
+  .leftl {
+    left: 10%;
+    width: 1px;
+    height: 100%;
+    background-color: #aa00ff;
+  }
+
+  .rightl {
+    right: 5%;
+    width: 1px;
+    height: 100%;
+  }
+}
+@media (min-width: 769px) and (max-width: 991.99px) {
+  :root {
+    --card-width: 500px; /* Set card to 300px × 300px */
+    --card-height: 500px;
+  }
+  .rightl {
+    right: 10%;
+    width: 1px;
+    height: 100%;
+  }
+  .leftl {
+    left: 10%;
+    width: 1px;
+    height: 100%;
+    background-color: #aa00ff;
+  }
+  .topl {
+    top: 10%;
+   width: 500px;
+    background-color: #aa00ff;
+  }
+  .bottoml {
+    bottom: 10%;
+ width: 500px;
+
+ background-color: #aa00ff;
+  }
+  .custom-class33 {
+    font-size: 20px;
+    width: 350px; /* Scaled down to fit 300px card */
+    margin-left: -100px; /* Centered */
+  }
+  .dot {
+    animation: moveDot 6s linear infinite;
+  }
+  @keyframes moveDot {
+    0% {
+      top: 10%;
+      left: 10%;
+    }
+    25% {
+      top: 10%;
+      left: calc(100% - 10% - 6px); /* Matches provided keyframes */
+    }
+    50% {
+      top: calc(100% - 10% - 6px);
+      left: calc(100% - 10% - 6px);
+    }
+    75% {
+      top: calc(100% - 10% - 6px); /* Fixed for consistency */
+      left: 10%;
+    }
+    100% {
+      top: 10%;
+      left: 10%;
+    }
+  }
+}

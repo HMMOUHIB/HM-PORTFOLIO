@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=My+Soul&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Creepster&family=Emilys+Candy&family=Fascinate&family=Kumar+One+Outline&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Creepster&family=Emilys+Candy&family=Fascinate&family=Kumar+One+Outline&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=My+Soul&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Emilys+Candy&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Creepster&family=Emilys+Candy&family=Fascinate&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Bungee+Shade&family=Creepster&family=Emilys+Candy&family=Fascinate&family=Flavors&family=Kumar+One+Outline&family=Lexend+Zetta:wght@100..900&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik+Puddles&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Bungee+Shade&family=Creepster&family=Emilys+Candy&family=Fascinate&family=Flavors&family=Kumar+One+Outline&family=Lexend+Zetta:wght@100..900&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik+Glitch+Pop&family=Rubik+Puddles&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Bungee+Shade&family=Creepster&family=Emilys+Candy&family=Fascinate&family=Flavors&family=Fontdiner+Swanky&family=Kumar+One+Outline&family=Lexend+Zetta:wght@100..900&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik+Glitch+Pop&family=Rubik+Puddles&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Bungee+Shade&family=Creepster&family=Emilys+Candy&family=Fascinate&family=Flavors&family=Fontdiner+Swanky&family=Geostar&family=Kumar+One+Outline&family=Lexend+Zetta:wght@100..900&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik+Glitch+Pop&family=Rubik+Puddles&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Bungee+Shade&family=Creepster&family=Emilys+Candy&family=Fascinate&family=Flavors&family=Fontdiner+Swanky&family=Geostar&family=Kumar+One+Outline&family=Lexend+Zetta:wght@100..900&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik+Glitch+Pop&family=Rubik+Puddles&family=Ruslan+Display&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.titleInfo{
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+}
+.custom-classM{
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+        height: 80px;
+        width: 260px;
+        margin-top: 200px;
+        backdrop-filter: violet;
+        filter: blur(20px);
+        background-color: violet;
+        position: absolute;
+        top:700px;
+        opacity: 0.5;
+        left: 600px;
+}
+.custom-class00{
+    color:  white;
+    width: 550px;
+    text-align: center;
+    margin-left: 450px;
+    border-radius: 10px 0px 10px 0px ;
+    font-family: Kumar One Outline;
+}
+.bg2{
+    height: 200%;
+    width: 99%;
+    object-fit: cover;
+    position: absolute;
+   
+}
+.abouts{
+    margin-left: -60px;
+    
+}
+
+#Info{
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.mee{
+    font-size: 100px;
+    font-family: Winky Rough;
+    
+}
+p{
+font-family: Aladin;
+margin-bottom: 0px;
+}
+.titleinfo{
+    display: flex;
+    flex-direction: row;
+
+ width: 300px;
+font-size: 79px;
+ 
+
+}
+.info-content{
+
+    width: 90%;
+    justify-content: center;
+
+    align-items: center;
+    display: flex;
+
+}
+.text-2xl.font-semibold.text-center{
+    color: white;
+}
+
+.eyes{
+    position: absolute;
+    top:200px;
+    right: 1200px;
+
+}
+
+.name{
+    font-family: Emilys Candy;
+    font-size: 40px;
+color: rgb(201, 37, 37);
+}
+.aboutt{
+    font-size: 35px;
+    margin-left: 50px;
+}
+.about{
+    
+  
+    gap: 20PX;
+}
+.loader{
+   margin-top: -210px;
+}
+.loader2{
+    position: absolute;
+    bottom: -100px;
+   
+    width: 200px;
+    height: 200px;
+    left: 220px;
+}
+
+/* Work Section Styles */
+.work-title {
+    margin-left: -60px;
+}
+
+.work-content {
+    color: white;
+    width: 550px;
+    text-align: center;
+    margin-left: 450px;
+    font-family: Kumar One Outline;
+}
+
+/* Contact Section Styles */
+.contact-title {
+    margin-left: -60px;
+}
+.eyes{
+    
+}
+
+.contact-content {
+    color: white;
+    width: 550px;
+    text-align: center;
+    margin-left: 450px;
+    font-family: Kumar One Outline;
+}
+  @media (max-width: 640px) {
+    .songoku{
+        position: absolute;
+        top: 1000px;
+        width: 400px;
+        height: 540px;
+    }
+    #Info{
+        height: 200vh;
+        visibility: auto;
+        
+    }
+    .ld{
+       
+        position: absolute;
+        margin-top: 800px;
+        right: 100px;
+    }
+      .ld2{
+       
+        position: absolute;
+        margin-top: 800px;
+        right: 160px;
+  
+    }
+      .ld3{
+       
+        position: absolute;
+        margin-top: 700px;
+        right: -120px;
+    }
+    .cadre{
+        margin-left: -290px;
+    }
+    .custom-classAA{
+      
+        
+       
+        right: 130px;
+       font-size: 33px;
+    }
+   
+  }
+  @media (min-width: 769px) and (max-width: 991.99px) {
+    .songoku{
+        width: 300px;
+        height: 500px;
+        top: 35px;
+        
+        position: absolute;
+        left: 480px;
+
+    }
+    .cadre{
+        position: absolute;
+        left:10px;
+        top:60pX;
+    }
+    .custom-classAA{
+        position: absolute;
+        left:-520px;
+        top:-140px;
+        font-size: 40px;
+    }
+    .custom-classAA{
+    position: absolute;
+    right: -450px;
+    font-size: 40px;
+
+    }
+       .ld2{
+       
+        position: absolute;
+        margin-top: 200px;
+        right: 400px;
+  
+    }
+       .ld3{
+       
+        position: absolute;
+        margin-top: 300px;
+        right: 160px;
+  
+    }
+       .ld{
+       
+        position: absolute;
+        margin-top: 490px;
+        right: -80px;
+  
+    }
+  }
+

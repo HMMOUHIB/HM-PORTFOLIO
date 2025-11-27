@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Emilys+Candy&family=Monoton&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Emilys+Candy&family=Fascinate&family=Monoton&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Emilys+Candy&family=Fascinate&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Emilys+Candy&family=Fascinate&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');/* From Uiverse.io by Novaxlo */
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Aladin&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Emilys+Candy&family=Fascinate&family=Major+Mono+Display&family=Monoton&family=My+Soul&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+.custom-scroll-text{
+  
+
+color: violet;
+border-width: 2px;
+font-family: Emilys Candy;
+font-size: 30px;
+
+}
